@@ -2,6 +2,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #FFBA08;
+    padding: 20px;
   }
   
   header {
@@ -9,7 +11,10 @@ body {
     align-items: center;
     justify-content: space-between;
     width: 90%;
-    max-width: 1200px;
+    max-width: 3000px;
+    background-color: #3F88C5;
+    border-radius: 10px;
+    padding: 20px
   }
   
   header img {
@@ -19,8 +24,10 @@ body {
   }
   
   header h1 {
-    font-size: 1.5em;
+    font-size: 3em;
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFBA08;
   }
   
   header nav {
@@ -30,7 +37,8 @@ body {
   header nav a {
     margin-left: 1em;
     text-decoration: none;
-    color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   main {
@@ -46,6 +54,9 @@ body {
     max-width: 800px;
     margin: 2em 0;
     text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
   }
   
   section h2 {
