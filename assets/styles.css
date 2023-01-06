@@ -62,11 +62,11 @@ body {
   }
   
   section h2 {
-    font-size: 1.5em;
+    font-size: 2.2em;
   }
   
   section img {
-    width: 200px;
+    width: 400px;
     height: 200px;
     object-fit: cover;
     border-radius: 10px;
@@ -77,7 +77,7 @@ body {
     height: 400px;
   }
 
-  .work {
+  section.work {
     max-width: 900px;
   }
   
