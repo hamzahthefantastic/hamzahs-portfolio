@@ -14,7 +14,7 @@ body {
     max-width: 3000px;
     background-color: #3F88C5;
     border-radius: 10px;
-    padding: 20px
+    padding: 20px 40px;
   }
   
   header img {
@@ -28,6 +28,7 @@ body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     color: #FFBA08;
+    text-indent: 80px;
   }
   
   header nav {
@@ -47,6 +48,7 @@ body {
     align-items: center;
     width: 90%;
     max-width: 1200px;
+    margin-top: 20px;
   }
   
   section {
@@ -73,6 +75,10 @@ body {
   .featured {
     width: 400px;
     height: 400px;
+  }
+
+  .work {
+    max-width: 900px;
   }
   
   @media (min-width: 600px) {
