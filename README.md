@@ -8,7 +8,7 @@ Welcome to Hamzah's portfolio website! This site serves as a showcase for Hamzah
 
 To view Hamzah's portfolio, simply visit the site at https://hamzahthefantastic.github.io/hamzahs-portfolio. The site is designed to be responsive and should work on all modern devices and browsers.
 
-![Screenshot of the website](https://ibb.co/LQmcnhv)
+![Screenshot of the website](./assets/images/hamzah%20portfolio%20ss.jpg)
 
 ## License
 
